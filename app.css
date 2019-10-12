@@ -1395,6 +1395,11 @@ button.swiper-pagination-bullet {
   background-size: cover;
   background-position: top center;
 }
+.page6 .map > a {
+  display: block;
+  height: 205px;
+  line-height: 205px;
+}
 .page6 .text {
   position: absolute;
   bottom: 30px;
